@@ -50,10 +50,3 @@ If you have a different production server, you must **follow Steps 1-5 again** o
 - Calling the Qlik APIs using the Qlik object does not work properly on IE11
 - You have to manually refresh the page every time you make a change to see your changes
 
-## Contact
-
-If you've got any questions, please contact me at [josh.asi@waitematadhb.govt.nz.](mailto:josh.asi@waitematadhb.govt.nz?subject=Qlik%20React%20Mashup)
-
-## License
-
-This project is licensed under the ISC license, Copyright (c) 2019 Josh Asi. For more information see LICENSE.md.
