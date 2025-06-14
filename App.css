@@ -1,0 +1,17 @@
+.mashup {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f5f7fa;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.mashup__content {
+  padding: 2rem 3rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.08);
+  font-size: 1.5rem;
+  color: #222;
+}
